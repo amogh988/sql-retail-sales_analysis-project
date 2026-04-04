@@ -37,50 +37,50 @@ The dataset contains retail transaction data with the following columns:
 
  🔍 Key SQL Queries & Analysis
 
- 1️⃣ Sales on Specific Date
+ 1️ Sales on Specific Date
 
 Retrieve all sales made on `2022-11-05`
 
- 2️⃣ Category & Quantity Filter
+ 2️ Category & Quantity Filter
 
 Find transactions in **Clothing category** with quantity > 10 in November 2022
 
- 3️⃣ Total Sales by Category
+ 3️ Total Sales by Category
 
 Calculate total revenue generated per category
 
- 4️⃣ Average Age (Beauty Category)
+ 4️ Average Age (Beauty Category)
 
 Find average age of customers purchasing beauty products
 
- 5️⃣ High Value Transactions
+ 5️ High Value Transactions
 
 Identify transactions where total sales > 1000
 
- 6️⃣ Transactions by Gender & Category
+ 6️ Transactions by Gender & Category
 
 Count number of transactions by gender for each category
 
- 7️⃣ Monthly Sales Analysis
+ 7️ Monthly Sales Analysis
 
 * Calculate average sales per month
 * Identify best-selling month in each year
 
-8️⃣ Top Customers
+8️ Top Customers
 
 Find top 5 customers based on total spending
 
- 9️⃣ Unique Customers per Category
+ 9️ Unique Customers per Category
 
 Count distinct customers in each category
 
- 🔟 Sales Shift Analysis
+ 10 Sales Shift Analysis
 
 Categorize orders into:
 
-* 🌅 Morning (<=12)
-* 🌞 Afternoon (12–17)
-* 🌙 Evening (>17)
+*  Morning (<=12)
+*  Afternoon (12–17)
+*  Evening (>17)
 
 
  🧠 Key Insights
@@ -124,6 +124,6 @@ Categorize orders into:
 BSc Graduate | Aspiring Data Analyst / Data Scientist
 
 
- ⭐ If you like this project
+  If you like this project
 
 Give it a ⭐ on GitHub and feel free to fork!
