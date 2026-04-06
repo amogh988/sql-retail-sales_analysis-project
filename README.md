@@ -36,56 +36,33 @@ The dataset contains retail transaction data with the following columns:
 
 
  🔍 Key SQL Queries & Analysis
+ 
+-- Q.1 Write a SQL query to retrieve all columns for sales made on '2022-11-05
 
- 1️ Sales on Specific Date
+-- Q.2 Write a SQL query to retrieve all transactions where the category is 'Clothing' and the quantity sold is more than 10 in the month of Nov-2022
 
-Retrieve all sales made on `2022-11-05`
+-- Q.3 Write a SQL query to calculate the total sales (total_sale) for each category.
 
- 2️ Category & Quantity Filter
+-- Q.4 Write a SQL query to find the average age of customers who purchased items from the 'Beauty' category.
 
-Find transactions in **Clothing category** with quantity > 10 in November 2022
+-- Q.5 Write a SQL query to find all transactions where the total_sale is greater than 1000.
 
- 3️ Total Sales by Category
+-- Q.6 Write a SQL query to find the total number of transactions (transaction_id) made by each gender in each category.
 
-Calculate total revenue generated per category
+-- Q.7 Write a SQL query to calculate the average sale for each month. Find out best selling month in each year
 
- 4️ Average Age (Beauty Category)
+-- Q.8 Write a SQL query to find the top 5 customers based on the highest total sales 
 
-Find average age of customers purchasing beauty products
+-- Q.9 Write a SQL query to find the number of unique customers who purchased items from each category.
 
- 5️ High Value Transactions
+-- Q.10 Write a SQL query to create each shift and number of orders (Example Morning <=12, Afternoon Between 12 & 17, Evening >17)
 
-Identify transactions where total sales > 1000
-
- 6️ Transactions by Gender & Category
-
-Count number of transactions by gender for each category
-
- 7️ Monthly Sales Analysis
-
-* Calculate average sales per month
-* Identify best-selling month in each year
-
-8️ Top Customers
-
-Find top 5 customers based on total spending
-
- 9️ Unique Customers per Category
-
-Count distinct customers in each category
-
- 10 Sales Shift Analysis
-
-Categorize orders into:
-
-*  Morning (<=12)
-*  Afternoon (12–17)
-*  Evening (>17)
+ 
 
 
  🧠 Key Insights
 
-(Add your findings here, example:)
+
 
 * Clothing category generated the highest revenue
 * November showed peak sales due to seasonal demand
@@ -101,12 +78,6 @@ Categorize orders into:
 
 
 
- 🚀 How to Run This Project
-
-1. Import the dataset into SQL Server
-2. Open the `.sql` file
-3. Execute queries step by step
-4. Analyze outputs
 
 
 
