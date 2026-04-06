@@ -24,7 +24,7 @@ Q.1 write  a sql query to retrive all colummns for sales made on '2022-11-05'?
 select * from 
   [SQL - Retail Sales Analysis_utf ] where sale_date='2022-11-05';
 
-Q.2 write a sql query to retrieve all transactions where category = 'clothing' and quantity sold is more than 10?
+Q.2 write a sql query to retrieve all transactions where category = 'clothing' and quantity sold is more than 10 in the month of Nov-2022?
 SELECT * FROM retail_sales 
   WHERE  category = 'Clothing'AND sale_date >= '2022-11-01' AND sale_date < '2022-12-01' AND quantity >= 10;
 
