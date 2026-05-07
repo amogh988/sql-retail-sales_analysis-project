@@ -81,11 +81,6 @@ The dataset contains retail transaction data with the following columns:
 
 
 
- 📈 Future Improvements
-
-* Create dashboard using Power BI / Tableau
-* Add predictive analysis (future sales forecasting)
-* Optimize queries for performance
 
 
 
